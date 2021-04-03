@@ -10,6 +10,6 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="D:/Servers/Tomcat 9.x/lib/jasper.jar"/>
 	<classpathentry kind="lib" path="D:/Servers/Tomcat 9.x/lib/servlet-api.jar"/>
-	<classpathentry exported="true" kind="lib" path="D:/Servers/Tomcat 9.x/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="D:/Servers/Tomcat 9.x/lib/ojdbc6.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
