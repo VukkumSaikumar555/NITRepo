@@ -1,10 +1,10 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1" import="java.sql.*"%>
+    pageEncoding="ISO-8859-1" import="java.sql.*" info="Report" session="false" %>
 <%!  
 private Connection con;
 private PreparedStatement pst1,pst2;
 
-public void jspinit(){
+public void jspInit(){
 	//getting accesss to servlet config object
 	ServletConfig config=getServletConfig();
 	//reading jsp init params
